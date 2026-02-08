@@ -89,7 +89,7 @@
    <meta name="description" content="Nono4D hadir sebagai info situs resmi provider slot Pragmatic paling gacor dengan bet 200. Cocok untuk pemain yang ingin main hemat, aman, dan peluang menang lebih stabil." />
    <link href="https://lumihcm.vn/showroom-mau/" rel="canonical">
    <link href="https://beggin-madcon.pages.dev/" rel="amphtml">
-   <link rel="shortcut icon" href="https://astragraphia.org/favicon.ico" />
+   <link rel="shortcut icon" href="https://lumihcm.vn/wp-content/uploads/2024/11/cropped-favicon-180x180.png" />
    <meta name="robots" content="index, follow, max-image-preview:large">
    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -99,14 +99,14 @@
    <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1,maximum-scale=2">
    <link rel="manifest" href="/">
    <meta name="theme-color" content="#ff0000">
-   <link rel="icon" type="image/png" sizes="16x16" href="https://astragraphia.org/favicon.ico">
-   <link rel="icon" type="image/png" sizes="32x32" href="https://astragraphia.org/favicon.ico">
-   <link rel="icon" type="image/png" sizes="60x60" href="https://astragraphia.org/favicon.ico">
-   <link rel="icon" type="image/png" sizes="144x144" href="https://astragraphia.org/favicon.ico">
-   <link rel="apple-touch-icon" sizes="16x16" href="https://astragraphia.org/favicon.ico">
-   <link rel="apple-touch-icon" sizes="32x32" href="https://astragraphia.org/favicon.ico">
-   <link rel="apple-touch-icon" sizes="60x60" href="https://astragraphia.org/favicon.ico">
-   <link rel="apple-touch-icon" sizes="144x144" href="https://astragraphia.org/favicon.ico">
+   <link rel="icon" type="image/png" sizes="16x16" href="https://lumihcm.vn/wp-content/uploads/2024/11/cropped-favicon-180x180.png">
+   <link rel="icon" type="image/png" sizes="32x32" href="https://lumihcm.vn/wp-content/uploads/2024/11/cropped-favicon-180x180.png">
+   <link rel="icon" type="image/png" sizes="60x60" href="https://lumihcm.vn/wp-content/uploads/2024/11/cropped-favicon-180x180.png">
+   <link rel="icon" type="image/png" sizes="144x144" href="https://lumihcm.vn/wp-content/uploads/2024/11/cropped-favicon-180x180.png">
+   <link rel="apple-touch-icon" sizes="16x16" href="https://lumihcm.vn/wp-content/uploads/2024/11/cropped-favicon-180x180.png">
+   <link rel="apple-touch-icon" sizes="32x32" href="https://lumihcm.vn/wp-content/uploads/2024/11/cropped-favicon-180x180.png">
+   <link rel="apple-touch-icon" sizes="60x60" href="https://lumihcm.vn/wp-content/uploads/2024/11/cropped-favicon-180x180.png">
+   <link rel="apple-touch-icon" sizes="144x144" href="https://lumihcm.vn/wp-content/uploads/2024/11/cropped-favicon-180x180.png">
    <meta property="og:site_name" content="Nono4D">
    <meta property="og:type" content="website">
    <meta name="twitter:card" content="summary">
