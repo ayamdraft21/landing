@@ -1211,7 +1211,7 @@
         <!-- Produk 1 -->
         <a href="https://journal.paseepublisher.org/" class="product-card" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
           <img src="https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg" 
-               srcset="https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg 300w, https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg 600w"
+               srcset="https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg, https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg"
                sizes="(max-width: 600px) 150px, 200px"
                alt="Nono4D"
                loading="lazy">
@@ -1227,7 +1227,7 @@
         <!-- Produk 2 -->
         <a href="https://journal.paseepublisher.org/" class="product-card" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
           <img src="https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg" 
-               srcset="https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg 300w, https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg 600w"
+               srcset="https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg, https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg"
                sizes="(max-width: 600px) 150px, 200px"
                alt="Nono4D"
                loading="lazy">
@@ -1243,7 +1243,7 @@
         <!-- Produk 3 -->
         <a href="https://journal.paseepublisher.org/" class="product-card" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
           <img src="https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg" 
-               srcset="https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg 300w, https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg 600w"
+               srcset="https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg, https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg"
                sizes="(max-width: 600px) 150px, 200px"
                alt="Nono4D"
                loading="lazy">
@@ -1259,7 +1259,7 @@
         <!-- Produk 4 -->
         <a href="https://journal.paseepublisher.org/" class="product-card" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
           <img src="https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg" 
-               srcset="https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg 300w, https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg 600w"
+               srcset="https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg, https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg"
                sizes="(max-width: 600px) 150px, 200px"
                alt="Nono4D"
                loading="lazy">
