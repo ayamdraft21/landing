@@ -1209,7 +1209,7 @@
       <meta itemprop="numberOfItems" content="4">
       <div class="product-grid">
         <!-- Produk 1 -->
-        <a href="#" class="product-card" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
+        <a href="https://journal.paseepublisher.org/" class="product-card" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
           <img src="https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg" 
                srcset="https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg 300w, https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg 600w"
                sizes="(max-width: 600px) 150px, 200px"
@@ -1225,7 +1225,7 @@
           <meta itemprop="url" content="#">
         </a>
         <!-- Produk 2 -->
-        <a href="#" class="product-card" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
+        <a href="https://journal.paseepublisher.org/" class="product-card" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
           <img src="https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg" 
                srcset="https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg 300w, https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg 600w"
                sizes="(max-width: 600px) 150px, 200px"
@@ -1241,7 +1241,7 @@
           <meta itemprop="url" content="#">
         </a>
         <!-- Produk 3 -->
-        <a href="#" class="product-card" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
+        <a href="https://journal.paseepublisher.org/" class="product-card" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
           <img src="https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg" 
                srcset="https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg 300w, https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg 600w"
                sizes="(max-width: 600px) 150px, 200px"
@@ -1257,7 +1257,7 @@
           <meta itemprop="url" content="#">
         </a>
         <!-- Produk 4 -->
-        <a href="#" class="product-card" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
+        <a href="https://journal.paseepublisher.org/" class="product-card" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
           <img src="https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg" 
                srcset="https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg 300w, https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg 600w"
                sizes="(max-width: 600px) 150px, 200px"
