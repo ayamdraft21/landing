@@ -1053,7 +1053,7 @@
 
         <!-- Kurator Produk -->
         <div class="curator-section">
-          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYB3hmtJGg6NQBi8PhOYer2VrNpBeCL3-7waXxaQGMjJPr2B1AxMuHSHyQ0DutC5bwYCA5FcuzXyid24tMRTaCUDTEMmJ7re6YDRoiepyv78ORi6ju0ASQkAMtvSEd_aOUKYKlBHOW3gaIChIFSColIRx801YsXZ2rBYwoWiyW3iuxv6kj9R2_UXCacFKo/w320-h320/nond.png?70x70?text=Kurator" alt="Nono4D" class="curator-image" loading="lazy">
+          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYB3hmtJGg6NQBi8PhOYer2VrNpBeCL3-7waXxaQGMjJPr2B1AxMuHSHyQ0DutC5bwYCA5FcuzXyid24tMRTaCUDTEMmJ7re6YDRoiepyv78ORi6ju0ASQkAMtvSEd_aOUKYKlBHOW3gaIChIFSColIRx801YsXZ2rBYwoWiyW3iuxv6kj9R2_UXCacFKo/w320-h320/nond.png" alt="Nono4D" class="curator-image" loading="lazy">
           <div class="curator-info">
             <h4><i class="fas fa-check-circle" style="color:#9d2dee;"></i> Provider IDN </h4>
             <p>Nono4D hadir dengan bocoran slot 200 peluang maxwin tinggi dan situs gacor malam ini. Temukan link resmi, pola gacor terbaru, dan peluang menang besar dengan RTP tinggi dan akses mudah via Dana, OVO, dan QRIS.</p>
