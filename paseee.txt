@@ -65,7 +65,7 @@
     "name": "Nono4D",
     "jobTitle": "Nono4D: Bocoran Slot 200 Peluang Maxwin Tinggi & Situs Gacor Malam Ini",
     "description": "Nono4D hadir dengan bocoran slot 200 peluang maxwin tinggi dan situs gacor malam ini. Temukan link resmi, pola gacor terbaru, dan peluang menang besar dengan RTP tinggi dan akses mudah via Dana, OVO, dan QRIS.",
-    "image": https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYB3hmtJGg6NQBi8PhOYer2VrNpBeCL3-7waXxaQGMjJPr2B1AxMuHSHyQ0DutC5bwYCA5FcuzXyid24tMRTaCUDTEMmJ7re6YDRoiepyv78ORi6ju0ASQkAMtvSEd_aOUKYKlBHOW3gaIChIFSColIRx801YsXZ2rBYwoWiyW3iuxv6kj9R2_UXCacFKo/w320-h320/nond.png",
+    "image": "https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg",
     "worksFor": {
       "@type": "Organization",
       "name": "Nono4D"
@@ -1200,7 +1200,7 @@
         <div class="ugc-item"><img src="https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg" alt="Logo Nono4D" loading="lazy"></div>
         <div class="ugc-item"><img src="https://res.cloudinary.com/dmwuad6vn/image/upload/v1771266014/cihuy_fkjcy1.jpg" alt="Logo Nono4D" loading="lazy"></div>
       </div>
-      <p style="text-align:center; margin-top:20px;"><a href="#" style="color:#9d2dee; font-weight:500;">Lihat semua foto <i class="fas fa-arrow-right"></i></a></p>
+      <p style="text-align:center; margin-top:20px;"><a href="https://journal.paseepublisher.org/" style="color:#9d2dee; font-weight:500;">Lihat semua foto <i class="fas fa-arrow-right"></i></a></p>
     </section>
 
     <!-- Related Products -->
@@ -1222,7 +1222,7 @@
           <div class="rating" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
             <i class="fas fa-star" style="color:#fbbf24;"></i> <span itemprop="ratingValue">4.3</span>/5 (<span itemprop="reviewCount">45</span>)
           </div>
-          <meta itemprop="url" content="#">
+          <meta itemprop="url" content="https://journal.paseepublisher.org/">
         </a>
         <!-- Produk 2 -->
         <a href="https://journal.paseepublisher.org/" class="product-card" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
@@ -1238,7 +1238,7 @@
           <div class="rating" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
             <i class="fas fa-star" style="color:#fbbf24;"></i> <span itemprop="ratingValue">4.7</span>/5 (<span itemprop="reviewCount">78</span>)
           </div>
-          <meta itemprop="url" content="#">
+          <meta itemprop="url" content="https://journal.paseepublisher.org/">
         </a>
         <!-- Produk 3 -->
         <a href="https://journal.paseepublisher.org/" class="product-card" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
@@ -1254,7 +1254,7 @@
           <div class="rating" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
             <i class="fas fa-star" style="color:#fbbf24;"></i> <span itemprop="ratingValue">4.5</span>/5 (<span itemprop="reviewCount">92</span>)
           </div>
-          <meta itemprop="url" content="#">
+          <meta itemprop="url" content="https://journal.paseepublisher.org/">
         </a>
         <!-- Produk 4 -->
         <a href="https://journal.paseepublisher.org/" class="product-card" itemprop="itemListElement" itemscope itemtype="https://schema.org/Product">
@@ -1270,7 +1270,7 @@
           <div class="rating" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
             <i class="fas fa-star" style="color:#fbbf24;"></i> <span itemprop="ratingValue">4.2</span>/5 (<span itemprop="reviewCount">34</span>)
           </div>
-          <meta itemprop="url" content="#">
+          <meta itemprop="url" content="https://journal.paseepublisher.org/">
         </a>
       </div>
     </section>
