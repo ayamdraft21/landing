@@ -1117,7 +1117,7 @@
 
                                             <li class='global-header-menu__list-item -background-light -border-radius'>
                                                 <a class="global-header-menu__link h-pl1" data-view="modalAjax"
-                                                    href="https://yakale.me/Olxtotodotcom">
+                                                    href="https://pucohandsup.pages.dev/">
                                                     <span id="spec-user-username" class='global-header-menu__link-text'>
                                                         LOGIN
                                                     </span>
@@ -1755,7 +1755,7 @@
                     </header>
                      <div class="rick-btn">
                             <a href="https://pucohandsup.pages.dev/" rel="nofollow noreferrer" class="button">LOGIN</a>
-                            <a href="https://yakale.me/Olxtotodotcom" rel="nofollow noreferrer" class="button">DAFTAR</a>
+                            <a href="https://pucohandsup.pages.dev/" rel="nofollow noreferrer" class="button">DAFTAR</a>
                     </div>
                 </div>
 
